@@ -10,7 +10,6 @@
         android:layout_height="match_parent"
         android:src="@drawable/christmas_tree_snow_2"
         android:scaleType="centerCrop" /> <!-- source: https://weheartit.com/entry/18314787 -->
-
     <ImageView
         android:id="@+id/sender"
         android:layout_width="wrap_content"
@@ -52,7 +51,6 @@
         android:gravity="center"
         android:background="#FFFFFF"
         android:textColor="@android:color/black" />
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
